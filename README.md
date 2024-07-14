@@ -24,4 +24,7 @@ Together, we’ve combined our expertise and passion for technology to bring thi
 - **Convenience:** Simplify the parking process with automated systems and real-time data.
 - **Cost-Effective:** Save on fuel and reduce parking costs with optimized parking management.
 
+  ![IMG_2848](https://github.com/user-attachments/assets/c3725a87-ac05-48c6-90db-96f8cadba3c6)
+
+
 Join us in revolutionizing urban mobility and making parking a breeze. Let’s drive towards a smarter, more connected future!
